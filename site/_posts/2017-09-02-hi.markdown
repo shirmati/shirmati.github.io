@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Hi."
+date:   2017-09-02 14:38:11 +0200
+categories: welcome
+---
+<p> My name is Shir. <br> 
+	I'm a sofware developer by day, and a dancer/yogi by night.
+</p>
+<p>
+	This blog is my next Challenge - <br>
+	to share some of the knowledge and wisdom that I pick up along the way.
+</p><p>
+	I'm writing my code in whatever suits the need. <br>
+	These days it's mostly Ruby (rails), and the amazing, not-so-beautiful, <br>
+	you guessed it - Javascript.
+</p><p>
+	Since my favourite part of the R&D is the R, I like to document my learnings. <br>
+	One day I've realized that I'm surrounded by an ever-growing  <br>
+	number of Google Docs, alongside some sample code snippets that regards different subjects from the software world.
+</p><p>
+	And then, it hit me. <br>
+	I should share this. If it helped me, it can, most likely, help somebody out there too.
+</p><p>
+	So, this is what this space is all about. <br>
+	Hope you are excited, <br>
+	I know I am.
+</p>
